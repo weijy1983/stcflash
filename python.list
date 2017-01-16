@@ -1,0 +1,395 @@
+Loaded plugins: fastestmirror
+Loading mirror speeds from cached hostfile
+ * base: mirror.bit.edu.cn
+ * extras: mirrors.zju.edu.cn
+ * updates: mirror.bit.edu.cn
+============================= N/S matched: python ==============================
+OpenIPMI-python.x86_64 : IPMI Python language bindings
+abrt-addon-python.x86_64 : abrt's addon for catching and analyzing Python
+                         : exceptions
+abrt-python.x86_64 : ABRT Python API
+abrt-python-doc.noarch : ABRT Python API Documentation
+antlr-python.noarch : Python runtime support for ANTLR-generated parsers
+at-spi-python.x86_64 : Python bindings for at-spi
+audit-libs-python.x86_64 : Python bindings for libaudit
+boost-mpich-python.i686 : Python run-time component of Boost.MPI library
+boost-mpich-python.x86_64 : Python run-time component of Boost.MPI library
+boost-openmpi-python.i686 : Python run-time component of Boost.MPI library
+boost-openmpi-python.x86_64 : Python run-time component of Boost.MPI library
+boost-python.i686 : Run-Time component of boost python library
+boost-python.x86_64 : Run-Time component of boost python library
+cracklib-python.x86_64 : Python bindings for applications which use cracklib
+cryptsetup-python.x86_64 : Python bindings for libcryptsetup
+dbus-python.i686 : D-Bus Python Bindings
+dbus-python.x86_64 : D-Bus Python Bindings
+dbus-python-devel.i686 : Libraries and headers for dbus-python
+dbus-python-devel.x86_64 : Libraries and headers for dbus-python
+docker-python.x86_64 : An API client for docker written in Python
+farstream-python.x86_64 : Python binding for farstream
+fedfs-utils-python.noarch : FedFS Python utilities
+freeradius-python.x86_64 : Python support for freeradius
+gamin-python.x86_64 : Python bindings for the gamin library
+gnome-python2.x86_64 : PyGNOME Python extension module
+gnome-python2-bonobo.x86_64 : Python bindings for interacting with Bonobo
+gnome-python2-canvas.x86_64 : Python bindings for the GNOME Canvas
+gnome-python2-gconf.x86_64 : Python bindings for interacting with GConf
+gnome-python2-gnome.x86_64 : Python bindings for libgnome
+gnome-python2-gnomevfs.x86_64 : Python bindings for interacting with gnome-vfs
+graphviz-python.x86_64 : Python extension for graphviz
+gstreamer-python.i686 : Python bindings for GStreamer
+gstreamer-python.x86_64 : Python bindings for GStreamer
+gstreamer-python-devel.i686 : Headers for developing programs that will use
+                            : gstreamer-python
+gstreamer-python-devel.x86_64 : Headers for developing programs that will use
+                              : gstreamer-python
+gtk-vnc-python.x86_64 : Python bindings for the gtk-vnc library
+gupnp-igd-python.x86_64 : Python bindings for gupnp-igd
+i2c-tools-python.x86_64 : Python bindings for Linux SMBus access through i2c-dev
+ipa-python-compat.noarch : Compatiblity package for Python libraries used by IPA
+konkretcmpi-python.x86_64 : Python bindings for konkretcmpi
+kross-python.x86_64 : Kross plugin for python
+langtable-python.noarch : Python module to query the langtable-data
+lasso-python.x86_64 : Liberty Alliance Single Sign On (lasso) Python bindings
+ldns-python.x86_64 : Python extensions for ldns
+libcap-ng-python.x86_64 : Python bindings for libcap-ng library
+libchewing-python.x86_64 : Python binding for libchewing
+libdnet-python.x86_64 : Python bindings for libdnet
+libgexiv2-python2.x86_64 : Python2 bindings for libgexiv2
+libieee1284-python.x86_64 : Python extension module for libieee1284
+libimobiledevice-python.x86_64 : Python bindings for libimobiledevice
+libiptcdata-python.x86_64 : Python bindings for libiptcdata
+liblouis-python.noarch : Python 2 language bindings for liblouis
+libpfm-python.x86_64 : Python bindings for libpfm and perf_event_open system
+                     : call
+libplist-python.x86_64 : Python package for libplist
+libproxy-python.noarch : Binding for libproxy and python
+libpst-python.x86_64 : Python bindings for libpst
+libreport-python.x86_64 : Python bindings for report-libs
+libselinux-python.x86_64 : SELinux python bindings for libselinux
+libsemanage-python.x86_64 : semanage python bindings for libsemanage
+libstoragemgmt-python.noarch : Python client libraries and plug-in support for
+                             : libstoragemgmt
+libstoragemgmt-python-clibs.x86_64 : Python C extension module for
+                                   : libstoragemgmt
+libuser-python.x86_64 : Python bindings for the libuser library
+libvirt-python.x86_64 : The libvirt virtualization API python2 binding
+libxml2-python.x86_64 : Python bindings for the libxml2 library
+libxslt-python.x86_64 : Python bindings for the libxslt library
+lvm2-python-libs.x86_64 : Python module to access LVM
+marisa-python.x86_64 : Python language binding for marisa
+net-snmp-python.x86_64 : The Python 'netsnmp' module for the Net-SNMP
+newt-python.x86_64 : Python bindings for newt
+opencv-python.x86_64 : Python bindings for apps which use OpenCV
+openlmi-python-base.noarch : Python namespace package for OpenLMI python
+                           : projects
+openlmi-python-providers.noarch : Python namespace package for pywbem providers
+openscap-python.x86_64 : Python bindings for openscap
+openwsman-python.x86_64 : Python bindings for openwsman client API
+plasma-scriptengine-python.x86_64 : Plasma scriptengine for python
+policycoreutils-python.x86_64 : SELinux policy core python utilities
+postgresql-plpython.x86_64 : The Python2 procedural language for PostgreSQL
+protobuf-python.x86_64 : Python bindings for Google Protocol Buffers
+python-IPy.noarch : Python module for handling IPv4 and IPv6 Addresses and
+                  : Networks
+python-augeas.noarch : Python bindings to augeas
+python-babel.noarch : Library for internationalizing Python applications
+python-backports.x86_64 : Namespace for backported Python features
+python-backports-lzma.x86_64 : Backport of Python 3.3's lzma module
+python-backports-ssl_match_hostname.noarch : The ssl.match_hostname() function
+                                           : from Python 3
+python-blivet.noarch : A python module for system storage configuration
+python-brlapi.x86_64 : Python binding for BrlAPI
+python-centos.noarch : Python bindings for the CentOS account system, CBS and
+                     : other services
+python-cffi.x86_64 : Foreign Function Interface for Python to call C code
+python-chardet.noarch : Character encoding auto-detection in Python
+python-cherrypy.noarch : Pythonic, object-oriented web development framework
+python-coverage.x86_64 : Code coverage testing module for Python
+python-cpio.noarch : A Python module for accessing cpio archives
+python-createrepo_c.x86_64 : Python bindings for the createrepo_c library
+python-criu.x86_64 : Python bindings for criu
+python-crypto.x86_64 : Cryptography library for Python
+python-cups.x86_64 : Python bindings for CUPS
+python-cups-doc.x86_64 : Documentation for python-cups
+python-custodia.noarch : Subpackage with python custodia modules
+python-debug.x86_64 : Debug version of the Python runtime
+python-deltarpm.x86_64 : Python bindings for deltarpm
+python-devel.x86_64 : The libraries and header files needed for Python
+                    : development
+python-di.noarch : Python library for dependency injection support
+python-dmidecode.x86_64 : Python module to access DMI data
+python-dns.noarch : DNS toolkit for Python
+python-docker-py.noarch : An API client for docker written in Python
+python-docs.noarch : Documentation for the Python programming language
+python-enum34.noarch : Backport of Python 3.4 Enum
+python-ethtool.x86_64 : Ethernet settings python bindings
+python-firewall.noarch : Python2 bindings for firewalld
+python-flask.noarch : A micro-framework for Python based on Werkzeug, Jinja 2
+                    : and good intentions
+python-flask-doc.noarch : Documentation for python-flask
+python-fpconst.noarch : Python module for handling IEEE 754 floating point
+                      : special values
+python-gevent.x86_64 : A coroutine-based Python networking library
+python-gluster.noarch : GlusterFS python library
+python-gpod.x86_64 : Python module to access iPod content
+python-greenlet-devel.x86_64 : C development headers for python-greenlet
+python-gssapi.x86_64 : Python Bindings for GSSAPI (RFC 2743/2744 and extensions)
+python-gudev.x86_64 : Python (PyGObject) bindings to the GUDev library
+python-gunicorn.noarch : Python WSGI application server
+python-hivex.x86_64 : Python bindings for hivex
+python-hwdata.noarch : Python bindings to hwdata package
+python-imgcreate.x86_64 : Python modules for building system images
+python-iniparse.noarch : Python Module for Accessing and Modifying Configuration
+                       : Data in INI files
+python-inotify.noarch : Monitor filesystem events with Python under Linux
+python-inotify-examples.noarch : Examples for Python inotify module
+python-ipaddr.noarch : A python library for working with IP addresses, both IPv4
+                     : and IPv6
+python-ipaddress.noarch : Port of the python 3.3+ ipaddress module to 2.6+
+python-isomd5sum.x86_64 : Python bindings for isomd5sum
+python-itsdangerous.noarch : Python library for passing trusted data to
+                           : untrusted environments
+python-jsonpatch.noarch : Applying JSON Patches in Python
+python-jsonpointer.noarch : Resolve JSON Pointers in Python
+python-jwcrypto.noarch : Implements JWK,JWS,JWE specifications using
+                       : python-cryptography
+python-kitchen.noarch : Small, useful pieces of code to make python coding
+                      : easier
+python-kitchen-doc.noarch : API documentation for the Kitchen python module
+python-kmod.x86_64 : Python module to work with kernel modules
+python-krbV.x86_64 : Python extension module for Kerberos 5
+python-libguestfs.x86_64 : Python bindings for libguestfs
+python-libipa_hbac.x86_64 : Python2 bindings for the FreeIPA HBAC Evaluator
+                          : library
+python-librepo.x86_64 : Python bindings for the librepo library
+python-libs.i686 : Runtime libraries for Python
+python-libs.x86_64 : Runtime libraries for Python
+python-libsss_nss_idmap.x86_64 : Python2 bindings for libsss_nss_idmap
+python-libvoikko.noarch : Python interface to libvoikko
+python-lxml.x86_64 : ElementTree-like Python bindings for libxml2 and libxslt
+python-lxml-docs.noarch : Documentation for python-lxml
+python-magic.noarch : Python bindings for the libmagic API
+python-mako.noarch : Mako template library for Python
+python-markdown.noarch : Markdown implementation in Python
+python-markupsafe.x86_64 : Implements a XML/HTML/XHTML Markup safe string for
+                         : Python
+python-matplotlib.x86_64 : Python 2D plotting library
+python-matplotlib-doc.x86_64 : Documentation files for python-matplotlib
+python-matplotlib-qt4.x86_64 : Qt4 backend for python-matplotlib
+python-matplotlib-tk.x86_64 : Tk backend for python-matplotlib
+python-meh.noarch : A python library for handling exceptions
+python-meh-gui.noarch : Graphical user interface for the python-meh library
+python-memcached.noarch : A Python memcached client library
+python-mutagen.noarch : Mutagen is a Python module to handle audio metadata
+python-netaddr.noarch : A pure Python network address representation and
+                      : manipulation library
+python-netifaces.x86_64 : Python library to retrieve information about network
+                        : interfaces
+python-nose.noarch : Discovery-based unittest extension for Python
+python-nss.x86_64 : Python bindings for Network Security Services (NSS)
+python-ntplib.noarch : Python module that offers a simple interface to query NTP
+                     : servers
+python-paramiko.noarch : SSH2 protocol library for python
+python-pcp.x86_64 : Performance Co-Pilot (PCP) Python bindings and documentation
+python-perf.x86_64 : Python bindings for apps which will manipulate perf events
+python-pillow.i686 : Python image processing library
+python-pillow.x86_64 : Python image processing library
+python-pillow-devel.i686 : Development files for python-pillow
+python-pillow-devel.x86_64 : Development files for python-pillow
+python-pillow-doc.x86_64 : Documentation for python-pillow
+python-pillow-sane.x86_64 : Python module for using scanners
+python-pillow-tk.x86_64 : Tk interface for python-pillow
+python-ply.noarch : Python Lex-Yacc
+python-prettytable.noarch : Python library to display tabular data in tables
+python-psycopg2.x86_64 : A PostgreSQL database adapter for Python
+python-psycopg2-debug.x86_64 : A PostgreSQL database adapter for Python 2 (debug
+                             : build)
+python-psycopg2-doc.x86_64 : Documentation for psycopg python PostgreSQL
+                           : database adapter
+python-pwquality.x86_64 : Python bindings for the libpwquality library
+python-py.noarch : Library with cross-python path, ini-parsing, io, code, log
+                 : facilities
+python-pyblock.x86_64 : Python modules for dealing with block devices
+python-pycparser.noarch : C parser and AST generator written in Python
+python-pycurl.x86_64 : A Python interface to libcurl
+python-pygments.noarch : Syntax highlighting engine written in Python
+python-qpid.noarch : Python client library for AMQP
+python-qpid-common.noarch : Shared code for Qpid Python language bindings
+python-qrcode.noarch : Python QR Code image generator
+python-qrcode-core.noarch : Python QR Code image generator (core library)
+python-rados.x86_64 : Python libraries for the RADOS object store
+python-rbd.x86_64 : Python libraries for the RADOS block device
+python-reportlab.x86_64 : Python PDF generation library
+python-reportlab-docs.x86_64 : Documentation files for python-reportlab
+python-requests.noarch : HTTP library, written in Python, for human beings
+python-rhsm.x86_64 : A Python library to communicate with a Red Hat Unified
+                   : Entitlement Platform
+python-rtslib-doc.noarch : Documentation for python-rtslib
+python-saslwrapper.x86_64 : Python bindings for saslwrapper
+python-schedutils.x86_64 : Linux scheduler python bindings
+python-setproctitle.x86_64 : Python module to customize a process title
+python-setuptools.noarch : Easily build and distribute Python packages
+python-six.noarch : Python 2 and 3 compatibility utilities
+python-slip.noarch : Miscellaneous convenience, extension and workaround code
+                   : for Python
+python-smbc.x86_64 : Python bindings for libsmbclient API from Samba
+python-smbc-doc.x86_64 : Documentation for python-smbc
+python-sphinx.noarch : Python documentation generator
+python-sphinx-doc.noarch : Documentation for python-sphinx
+python-sqlalchemy.x86_64 : Modular and flexible ORM library for python
+python-sss.x86_64 : Python2 bindings for sssd
+python-sss-murmur.x86_64 : Python2 bindings for murmur hash function
+python-suds.noarch : A python SOAP client
+python-tdb.i686 : Python bindings for the Tdb library
+python-tdb.x86_64 : Python bindings for the Tdb library
+python-test.x86_64 : The test modules from the main python package
+python-tevent.x86_64 : Python bindings for the Tevent library
+python-tools.x86_64 : A collection of development tools included with Python
+python-tornado-doc.noarch : Examples for python-tornado
+python-twisted-core.x86_64 : Asynchronous networking framework written in Python
+python-twisted-web.x86_64 : Twisted web client and server, programmable in
+                          : Python
+python-urllib3.noarch : Python HTTP library with thread-safe connection pooling
+                      : and file post
+python-virtualenv.noarch : Tool to create isolated Python environments
+python-volume_key.x86_64 : Python bindings for libvolume_key
+python-websocket-client.noarch : WebSocket client for python
+python-werkzeug.noarch : The Swiss Army knife of Python web development
+python-werkzeug-doc.noarch : Documentation for python-werkzeug
+python-which.noarch : Small which replacement that can be used as a Python
+                    : module
+python-yubico.noarch : Pure-python library for interacting with Yubikeys
+python2-hawkey.x86_64 : Python 2 bindings for the hawkey library
+python2-ipaclient.noarch : Python libraries used by IPA client
+python2-ipalib.noarch : Python libraries used by IPA
+python2-ipaserver.noarch : Python libraries used by IPA server
+python2-pyasn1.noarch : ASN.1 tools for Python 2
+rpm-python.x86_64 : Python bindings for apps which will manipulate RPM packages
+rrdtool-python.x86_64 : Python RRDtool bindings
+samba-python.x86_64 : Samba Python libraries
+sanlock-python.x86_64 : Python bindings for the sanlock library
+satyr-python.x86_64 : Python bindings for satyr
+speech-dispatcher-python.x86_64 : Python Client API for speech-dispatcher
+spice-gtk-python.x86_64 : Python bindings for the spice-gtk-2.0 library
+subversion-python.x86_64 : Python bindings for Subversion Version Control system
+systemd-python.x86_64 : Python 2 bindings for systemd
+unbound-python.x86_64 : Python modules and extensions for unbound
+Cython.x86_64 : A language for writing Python extension modules
+MySQL-python.x86_64 : An interface to MySQL
+PyGreSQL.x86_64 : A Python client library for PostgreSQL
+PyOpenGL.noarch : Python bindings for OpenGL
+PyPAM.x86_64 : PAM bindings for Python
+PyQt4.i686 : Python bindings for Qt4
+PyQt4.x86_64 : Python bindings for Qt4
+PyYAML.x86_64 : YAML parser and emitter for Python
+SOAPpy.noarch : Full-featured SOAP library for Python
+babel.noarch : Tools for internationalizing Python applications
+cmpi-bindings-pywbem.x86_64 : Adapter to write and run CMPI-type CIM providers
+                            : in Python
+epydoc.noarch : Automatic API documentation generation tool for Python
+gnome-python2-devel.x86_64 : Development files for building add-on libraries
+hawkey.i686 : Library providing simplified C and Python API to libsolv
+hawkey.x86_64 : Library providing simplified C and Python API to libsolv
+hawkey-devel.i686 : A Library providing simplified C and Python API to libsolv
+hawkey-devel.x86_64 : A Library providing simplified C and Python API to libsolv
+libreoffice-pyuno.x86_64 : Python support for LibreOffice
+m2crypto.x86_64 : Support for using OpenSSL in python scripts
+mod_wsgi.x86_64 : A WSGI interface for Python web applications in Apache
+numpy.x86_64 : A fast multidimensional array facility for Python
+openlmi-python-test.noarch : OpenLMI test utilities
+pexpect.noarch : Pure Python Expect-like module
+pyOpenSSL.x86_64 : Python wrapper module around the OpenSSL library
+pyatspi.noarch : Python bindings for at-spi
+pycairo.x86_64 : Python bindings for the cairo library
+pygobject2.i686 : Python 2 bindings for GObject
+pygobject2.x86_64 : Python 2 bindings for GObject
+pygobject3.x86_64 : Python 2 bindings for GObject Introspection
+pygobject3-base.i686 : Python 2 bindings for GObject Introspection base package
+pygobject3-base.x86_64 : Python 2 bindings for GObject Introspection base
+                       : package
+pygpgme.x86_64 : Python module for working with OpenPGP messages
+pygtk2.x86_64 : Python bindings for GTK+
+pykde4.i686 : Python bindings for KDE4
+pykde4.x86_64 : Python bindings for KDE4
+pykickstart.noarch : A python library for manipulating kickstart files
+pyldb.i686 : Python bindings for the LDB library
+pyldb.x86_64 : Python bindings for the LDB library
+pyldb-devel.i686 : Development files for the Python bindings for the LDB library
+pyldb-devel.x86_64 : Development files for the Python bindings for the LDB
+                   : library
+pyliblzma.x86_64 : Python bindings for lzma
+pyorbit.x86_64 : Python bindings for ORBit2
+pyparted.x86_64 : Python module for GNU parted
+pyserial.noarch : Python serial port access library
+pytest.noarch : Simple powerful testing with Python
+python.x86_64 : An interpreted, interactive, object-oriented programming
+              : language
+python-beaker.noarch : WSGI middleware layer to provide sessions
+python-blinker.noarch : Fast, simple object-to-object and broadcast signaling
+python-boto.noarch : A simple lightweight interface to Amazon Web Services
+python-caribou.noarch : Keyboard UI for caribou
+python-cffi-doc.noarch : Documentation for CFFI
+python-cheetah.x86_64 : Template engine and code generator
+python-clufter.x86_64 : Library for transforming/analyzing cluster configuration
+                      : formats
+python-configobj.noarch : Config file reading, writing, and validation
+python-configshell.noarch : A framework to implement simple but nice CLIs
+python-dateutil.noarch : Powerful extensions to the standard datetime module
+python-decorator.noarch : Module to simplify usage of decorators
+python-docutils.noarch : System for processing plaintext documentation
+python-dtopt.noarch : Add options to doctest examples while they are running
+python-ecdsa.noarch : ECDSA cryptographic signature library
+python-greenlet.x86_64 : Lightweight in-process concurrent programming
+python-idna.noarch : Internationalized Domain Names in Applications (IDNA)
+python-javapackages.noarch : Module for handling various files for Java
+                           : packaging
+python-jinja2.noarch : General purpose template engine
+python-kdcproxy.noarch : MS-KKDCP (kerberos proxy) WSGI module
+python-kerberos.x86_64 : A high-level wrapper for Kerberos (GSSAPI) operations
+python-ldap.x86_64 : An object-oriented API to access LDAP directory servers
+python-libteam.x86_64 : Team network device library bindings
+python-linux-procfs.noarch : Linux /proc abstraction classes
+python-lockfile.noarch : A platform-independent file locking module
+python-munch.noarch : A dot-accessible dictionary (a la JavaScript objects)
+python-nose-docs.noarch : Nose Documentation
+python-nss-doc.x86_64 : API documentation and examples
+python-paste.noarch : Tools for using a Web Server Gateway Interface stack
+python-pillow-qt.x86_64 : PIL image wrapper for Qt
+python-pyudev.noarch : A libudev binding
+python-rhsm-certificates.x86_64 : Certificates required to communicate with a
+                                : Red Hat Unified Entitlement Platform
+python-rtslib.noarch : API for Linux kernel LIO SCSI target
+python-slip-dbus.noarch : Convenience functions for dbus services
+python-slip-gtk.noarch : Code to make auto-wrapping gtk labels
+python-sphinx-theme-openlmi.noarch : OpenLMI theme for Sphinx documentation
+                                   : generator
+python-sssdconfig.noarch : SSSD and IPA configuration file manipulation classes
+                         : and functions
+python-tempita.noarch : A very small text templating language
+python-tornado.noarch : Scalable, non-blocking web server and tools
+python-twisted-core-doc.x86_64 : Documentation for Twisted Core
+python-twisted-words.x86_64 : Twisted Instant Messaging implementations
+python-urlgrabber.noarch : A high-level cross-protocol url-grabber
+python-urwid.x86_64 : Console user interface library
+python-webob.noarch : WSGI request and response object
+python-webtest.noarch : Helper to test WSGI applications
+python-zope-interface.x86_64 : Zope 3 Interface Infrastructure
+python2-cryptography.x86_64 : PyCA's cryptography library
+python2-pyasn1-modules.noarch : Modules for pyasn1
+pytz.noarch : World Timezone Definitions for Python
+pyusb.noarch : Python bindings for libusb
+pywbem.noarch : Python WBEM Client and Provider Interface
+pyxattr.x86_64 : Extended attributes library wrapper for Python
+redhat-support-lib-python.noarch : Red Hat Support Software Development Library
+rhnlib.noarch : Python libraries for the Spacewalk project
+saslwrapper.x86_64 : Ruby and Python wrappers for the Cyrus SASL library
+scipy.x86_64 : Scipy: Scientific Tools for Python
+sip.i686 : SIP - Python/C++ Bindings Generator
+sip.x86_64 : SIP - Python/C++ Bindings Generator
+sip-devel.i686 : Files needed to generate Python bindings for any C++ class
+               : library
+sip-devel.x86_64 : Files needed to generate Python bindings for any C++ class
+                 : library
+tkinter.x86_64 : A graphical user interface for the Python scripting language
+
+  Name and summary matches only, use "search all" for everything.
